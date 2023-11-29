@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    place-items: center;
+}
+
+.log{
+    background: #00424c;
+}
+h3{
+    color: aliceblue;
+}
+.btn{
+    display: block;
+    justify-content: center;
+    padding: 10px 30px;
+    /* margin-left: 48%;
+    font-size: 12px;
+    width: 125px;
+    background: black;
+    color: aliceblue; */
+}
+button{
+    font-size: 12px;
+    width: 125px;
+    background: #00424c;
+    color: aliceblue;
+}
+
+.btn1{
+    margin-left:-5%;
+}
+
+.btn2{
+    margin-left: 5%;
+}
+h3{
+    text-align: center;
+}
